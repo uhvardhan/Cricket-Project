@@ -7,7 +7,8 @@ In this repository, I analyze the reviews taken by captains during IPL 2024. I c
 2. Seaborn
 3. Matplotlib
 
-I create separate jupyter notebooks for each question I try to answer. I will create one question per day.
+I create separate jupyter notebooks for each question I try to answer. I will create one question per day. I will start with basic ones and continue to build. I will also update the notebooks everyday to reflect the latest results. 
 
 ### Questions answered
-1. How many reviews were taken per innings?
+1. Day 1: How many reviews were taken per innings?
+2. Day 2: How many reviews were taken each over?
