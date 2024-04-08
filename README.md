@@ -12,3 +12,4 @@ I create separate jupyter notebooks for each question I try to answer. I will cr
 ### Questions answered
 1. Day 1: How many reviews were taken per innings?
 2. Day 2: How many reviews were taken each over?
+3. Day 3: What kind of decisions are being challenged?
