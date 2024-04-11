@@ -17,6 +17,7 @@ I create separate jupyter notebooks for each question I answer. I will start wit
 4. Day 4: Total number of reviews taken by batting or fielding sides.
 5. Day 5: Total number of reviews taken per umpire.
 6. Day 6: Total number of reviews taken in each match.
+7. Day 7: Total number of reviews taken per team and Number of successful/unsuccessful reviews by each team.
 
 ### To Do:
 1. 
