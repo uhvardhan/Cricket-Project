@@ -1,16 +1,18 @@
 # Decision Review System (DRS) data analysis - IPL 2024
 
 ### Data Collection
-I collect the dataset from ESPNCricinfo manually everyday (I would like to write a script to automate this).
+The data has been collected from ESPNCricinfo - Match Flow section. Here is an example of Match 31: [Kolkata Knight Riders vs Rajasthan Royals](https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-rajasthan-royals-31st-match-1426269/full-scorecard)
+
 
 ### Required Libraries:
 1. Pandas
 2. Seaborn
 3. Matplotlib
 
-I create separate jupyter notebooks for each question I answer. I will start with basic ones and continue to build. I will also update the notebooks everyday to reflect the latest plots. 
+### Analysis:
+Each jupyter notebook answers a question.  
 
-### Questions answered
+### Questions answered:
 1. Day 1: Total number of reviews taken in each innings.
 2. Day 2: Total number of reviews taken in each over.
 3. Day 3: Total number of reviews taken per type.
@@ -20,4 +22,6 @@ I create separate jupyter notebooks for each question I answer. I will start wit
 7. Day 7: Total number of reviews taken per team and Number of successful/unsuccessful reviews by each team.
 
 ### To Do:
-1. 
+1. How has the trend of review taking changed over the course of the season?
+2. Running average number of reviews over the course of the season?
+3. 
