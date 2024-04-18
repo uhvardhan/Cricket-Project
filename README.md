@@ -1,13 +1,19 @@
 # Decision Review System (DRS) data analysis - IPL 2024
 
+### Background
+The Decision Review System (DRS) is a technology-based process to assist match officials with their decision-making.
+The data lists all the player reviews i.e., players may request that the third umpire consider a decision of the on-field umpires. Each
+team is limited to 2 unsuccessful reviews per innings.
+
 ### Data Collection
 The data has been collected from ESPNCricinfo - Match Flow section. Here is an example of Match 31: [Kolkata Knight Riders vs Rajasthan Royals](https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-rajasthan-royals-31st-match-1426269/full-scorecard)
 
 
 ### Required Libraries:
-1. Pandas
-2. Seaborn
-3. Matplotlib
+1. Python
+2. Pandas
+3. Seaborn
+4. Matplotlib
 
 ### Analysis:
 Each jupyter notebook answers a question.  
