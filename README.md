@@ -9,23 +9,23 @@ team is limited to 2 unsuccessful reviews per innings.
 The data has been collected from ESPNCricinfo - Match Flow section. Here is an example of Match 31: [Kolkata Knight Riders vs Rajasthan Royals](https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-rajasthan-royals-31st-match-1426269/full-scorecard)
 
 ### Data Science Process
-Step 1: Ask an interesting question.
+1. Ask an interesting question.
         (i)   What is the goal?
         (ii)  What would you do if you had all the data?
         (iii) What do you want to predict or estimate?
-Step 2: Get the data.
+2. Get the data.
         (i)   How were the data sampled?
         (ii)  Which data are relevant?
         (iii) Are there any privacy issues?
-Step 3: Explore the data.
+3. Explore the data.
         (i)   Plot the data
         (ii)  Are there anomalies
         (iii) Are there patterns?
-Step 4: Model the data.
+4. Model the data.
         (i)   Build a model.
         (ii)  Fit the model.
         (iii) Validate the model.
-Step 5: Communicate and visualize the results.
+5. Communicate and visualize the results.
         (i)   What did we learn?
         (ii)  Do the results make sense?
         (iii) Can we tell a story?
